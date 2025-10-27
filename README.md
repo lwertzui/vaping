@@ -10,7 +10,7 @@
 
 vaping is a healthy alternative to smokeping!*
 
-* (This statement has not been evaluated by the Food and Drug Administration)
+\* (This statement has not been evaluated by the Food and Drug Administration)
 
 ![Vaping](https://raw.githubusercontent.com/20c/vaping/master/docs/img/vaping.png)
 
